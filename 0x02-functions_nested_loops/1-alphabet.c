@@ -3,7 +3,8 @@
  * print_alphabets - print alphabets
  *
  */
-void print_alphabet(void)
+void print_alphabet(void);
+
 {
 	char al;
 
