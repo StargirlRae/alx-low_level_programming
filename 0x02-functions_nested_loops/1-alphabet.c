@@ -2,7 +2,7 @@
 /**
  * print_alphabets - print alphabets
  *
- * Description: using _putchar to print
+ * Description: Print_alphabet using _putchar
  */
 void print_alphabet(void)
 {
