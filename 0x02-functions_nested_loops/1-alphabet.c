@@ -2,8 +2,9 @@
 /**
  * print_alphabets - print alphabets
  *
+ * Description: using _putchar to print
  */
-print_alphabet(void)
+void print_alphabet(void)
 {
 	char al;
 
